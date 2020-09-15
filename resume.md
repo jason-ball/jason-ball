@@ -1,4 +1,5 @@
 # Jason Eric Ball Jr.
+Email: [jason@jasonball.dev](mailto:jason@jasonball.dev)
 
 ## Education:
 **Virginia Commonwealth University (2019-2021)**
