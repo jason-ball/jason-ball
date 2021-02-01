@@ -16,7 +16,7 @@ Associate of Science
 Major in Computer Science
 
 ## Relevant Experience:
-**Full Stack Intern (August 2020 – May 2021, Remote)**
+**Full Stack Intern (August 2020 – May 2021, Remote)**\
 **National Oceanic and Atmospheric Administration (NOAA)**
 - In a team of four, developed a web app for NOAA’s Florida Keys National Marine Sanctuary to educate scuba divers about coral reefs using Vue.js, Nuxt.js, Tailwind CSS, Netlify CMS, Express.js, MongoDB, and Docker.
 
