@@ -6,4 +6,4 @@ My résumé is available [here](https://github.com/jason-ball/jason-ball/blob/ma
 
 <a rel="me" href="https://mastodon.social/@jason_m"></a>
 
-![Jason's GitHub stats]([https://github-readme-stats.vercel.app/api?username=jason-ball&count_private=true](https://github-readme-stats.vercel.app/api?username=jason-ball&count_private=true&show_icons=true))
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-ball&count_private=true](https://github-readme-stats.vercel.app/api?username=jason-ball&count_private=true&show_icons=true)
